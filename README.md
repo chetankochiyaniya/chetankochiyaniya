@@ -3,7 +3,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/chetan-kochiyaniya-a04b36199)
+![Linkedin: chetan](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/chetan-kochiyaniya-a04b36199)
 ![GitHub followers](https://img.shields.io/github/followers/chetankochiyaniya?label=Follow&style=social)
 
 
